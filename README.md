@@ -58,10 +58,7 @@
 
 ---
 
-## 🌱 Currently Learning
 
-- Spring Boot · React · CI/CD · System Design · Cloud Basics
 
----
 
-<p align="center"><em>"Code is like humor. When you have to explain it, it's bad." — Cory House</em></p>
+
