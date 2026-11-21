@@ -1,13 +1,13 @@
 <h1 align="center">👋 Hi, I'm Indere Neree</h1>
 <p align="center">
-  <em>I'm a Software Engineering Student @ AUCA University</em>
+  <em>I'm a Software Engineering Student </em>
 </p>
 
 ---
 
 ## 🎓 About Me
 
-- 🏫 Studying **Software Engineering** at [Adventist University of Central Africa (AUCA)](https://auca.ac.rw)
+- 🏫 Studyied **Software Engineering** at [Adventist University of Central Africa (AUCA)](https://auca.ac.rw)
 - 🌍 Based in **Rwanda**
 - 💡 Passionate about solving real-world problems through code
 - 🚀 Currently deepening skills in **algorithms**, **system design** & **full-stack development**
