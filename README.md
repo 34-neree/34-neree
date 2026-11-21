@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Indere Neree</h1>
 <p align="center">
-  <em>I'm a Software Engineering Student </em>
+  <em>I'm a Software Engineer </em>
 </p>
 
 ---
